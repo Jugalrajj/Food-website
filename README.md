@@ -55,7 +55,7 @@ Follow these steps to run the project locally.
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/jugalraj/food-delivery-website.git
 ```
 
 ### 2️⃣ Navigate to the project folder
